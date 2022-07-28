@@ -6,6 +6,7 @@ Bu repo kodluyoruz [Kodluyoruz Sayfamız](https://www.kodluyoruz.org/) front-end
 
 ## Installation
 
+05527393910
 Öncelikle projenizi clonelayın.
 'git clone https://github.com/Fthgnkyl/kodluyoruzilkrepo.git'
 
